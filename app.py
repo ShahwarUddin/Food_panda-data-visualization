@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import plotly.express as px
 
-df=pd.read_csv("Pakpanda.csv")
+df=pd.read_csv("pakpanda.csv")
 
 # print(df.head())
 # print(df.columns)
